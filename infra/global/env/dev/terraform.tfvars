@@ -1,9 +1,9 @@
 # Global Infrastructure - Development Environment Configuration
 
-aws_region = "eu-west-1"
+aws_region = "sa-east-1"
 
 # Domain Configuration
-domain_name = "domain.com"  # Replace with your actual domain
+domain_name = "kunjabhat.shop"  # Replace with your actual domain
 create_hosted_zone = true
 
 # CloudFront Configuration
