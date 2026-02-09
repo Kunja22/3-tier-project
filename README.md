@@ -55,8 +55,8 @@ The application follows a **3-tier architecture**:
 
 ---
 
-## 📁 Project Structure
 
+## 📁 Project Structure
 .
 ├── app
 │ ├── frontend
@@ -80,3 +80,60 @@ The application follows a **3-tier architecture**:
 │ └── terraform-backend
 │
 └── README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
